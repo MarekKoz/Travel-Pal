@@ -38,7 +38,7 @@ An Example Destination with Embedded Items and Links:
 
 ### Link to Commented Schema
 
-[Draft Schema](https://github.com/nyu-csci-ua-0480-001-003-fall-2018/MarekKoz-final-project/blob/master/db.js)
+[Draft Schema](https://github.com/MarekKoz/Travel-Pal/blob/master/db.js)
 
 ### Wireframes
 
@@ -46,25 +46,25 @@ My original rough blueprints for how I envisioned the web app to look.
 
 /destinations
 
-![Alt text](https://github.com/nyu-csci-ua-0480-001-003-fall-2018/MarekKoz-final-project/blob/master/documentation/pic1.jpg "Destinations")
+![Alt text](https://github.com/MarekKoz/Travel-Pal/blob/master/documentation/pic1.jpg "Destinations")
 
 /login
 
-![Alt text](https://github.com/nyu-csci-ua-0480-001-003-fall-2018/MarekKoz-final-project/blob/master/documentation/pic2.jpg "Destinations")
+![Alt text](https://github.com/MarekKoz/Travel-Pal/blob/master/documentation/pic2.jpg "Destinations")
 
 /destinations/add
 
-![Alt text](https://github.com/nyu-csci-ua-0480-001-003-fall-2018/MarekKoz-final-project/blob/master/documentation/pic3.jpg "Destinations")
+![Alt text](https://github.com/MarekKoz/Travel-Pal/blob/master/documentation/pic3.jpg "Destinations")
 
 /destinations/italy
 
-![Alt text](https://github.com/nyu-csci-ua-0480-001-003-fall-2018/MarekKoz-final-project/blob/master/documentation/pic4.jpg "Destinations")
+![Alt text](https://github.com/MarekKoz/Travel-Pal/blob/master/documentation/pic4.jpg "Destinations")
 
 ### Site map
 
 Basic sketch of how each page on the site relates to one another.
 
-![Alt text](https://github.com/nyu-csci-ua-0480-001-003-fall-2018/MarekKoz-final-project/blob/master/documentation/sitemap.jpg  "Site Map")
+![Alt text](https://github.com/MarekKoz/Travel-Pal/blob/master/documentation/sitemap.jpg  "Site Map")
 
 ### User Stories or Use Cases
 
